@@ -1,3 +1,4 @@
+#define __USE_MINGW_ANSI_STDIO 1
 #include <stdio.h>
 
 // Function to check prime. Returns 1 if prime, 0 otherwise.
