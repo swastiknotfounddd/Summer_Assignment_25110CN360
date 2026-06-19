@@ -1,3 +1,4 @@
+#define __USE_MINGW_ANSI_STDIO 1
 #include <stdio.h>
 
 // Function to check if a number is a perfect number. Returns 1 if perfect, 0 otherwise.
