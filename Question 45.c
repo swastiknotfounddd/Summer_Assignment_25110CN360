@@ -1,4 +1,3 @@
-#define __USE_MINGW_ANSI_STDIO 1
 #include <stdio.h>
 
 // Function to check palindrome. Returns 1 if palindrome, 0 otherwise.
